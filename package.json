@@ -1,7 +1,15 @@
 {
   "name": "github-user-activity",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command-line interface (CLI) tool that fetches and displays a GitHub user's activity.",
+  "homepage":"https://github.com/AmrKhaledAK47/GitHub-User-Activity#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrKhaledAK47/GitHub-User-Activity.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "bin": {
     "github-activity": "./index.js"
   },
@@ -10,7 +18,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "github",
+    "user",
+    "activity",
+    "cli",
+    "command-line",
+    "interface",
+    "tool"
+  ],
+  "author": "Amr Khaled",
+  "license": "MIT"
 }
