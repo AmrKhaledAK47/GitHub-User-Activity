@@ -65,6 +65,10 @@ Starred kamranahmedse/developer-roadmap
     ```sh
     Failed to fetch user events: <error message>
     ```
+    
+## Project Details
+
+For more details about the project, visit the [GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity).
 
 ## Contributing
 
